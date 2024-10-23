@@ -1,5 +1,6 @@
 ---
 layout: layout.vto
+title: My first page
 ---
 
 # Welcome to my website
