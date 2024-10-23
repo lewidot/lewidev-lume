@@ -1,5 +1,5 @@
-import lume from "lume/mod.ts";
+import lume from 'lume/mod.ts'
 
-const site = lume();
+const site = lume()
 
-export default site;
+export default site

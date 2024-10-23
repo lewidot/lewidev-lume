@@ -8,8 +8,11 @@
     "serve": "deno task lume -s"
   },
   "compilerOptions": {
-    "types": [
-      "lume/types.ts"
-    ]
+    "types": ["lume/types.ts"]
+  },
+  "fmt": {
+    "indentWidth": 2,
+    "semiColons": false,
+    "singleQuote": true
   }
 }
