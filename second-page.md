@@ -1,5 +1,4 @@
 ---
-layout: layout.vto
 title: My second page
 ---
 
